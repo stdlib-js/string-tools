@@ -20,9 +20,9 @@ limitations under the License.
 
 # Tools
 
-[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] [![dependencies][dependencies-image]][dependencies-url]
+[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
-> Standard library string utility tools.
+> String tools.
 
 <section class="installation">
 
@@ -44,7 +44,7 @@ var tools = require( '@stdlib/string-tools' );
 
 #### tools
 
-Standard library string utility tools.
+Namespace containing string tools.
 
 ```javascript
 var o = tools;
@@ -133,8 +133,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/string-tools/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/string-tools?branch=main
 
+<!--
+
 [dependencies-image]: https://img.shields.io/david/stdlib-js/string-tools.svg
 [dependencies-url]: https://david-dm.org/stdlib-js/string-tools/main
+
+-->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
 [chat-url]: https://gitter.im/stdlib-js/stdlib/
