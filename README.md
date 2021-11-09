@@ -55,6 +55,12 @@ The namespace contains the following:
 
 <!-- <toc pattern="*"> -->
 
+<div class="namespace-toc">
+
+-   <span class="signature">[`grapheme( code )`][@stdlib/string/tools/grapheme-cluster-break]</span><span class="delimiter">: </span><span class="description">grapheme cluster break tooling.</span>
+
+</div>
+
 <!-- </toc> -->
 
 </section>
@@ -150,6 +156,8 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/string-tools/main/LICENSE
 
 <!-- <toc-links> -->
+
+[@stdlib/string/tools/grapheme-cluster-break]: https://github.com/stdlib-js/string-tools-grapheme-cluster-break
 
 <!-- </toc-links> -->
 
