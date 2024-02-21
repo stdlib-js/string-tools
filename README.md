@@ -42,13 +42,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import tools from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-tools@esm/index.mjs';
+import tools from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-tools@v0.2.1-esm/index.mjs';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { grapheme } from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-tools@esm/index.mjs';
+import { grapheme } from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-tools@v0.2.1-esm/index.mjs';
 ```
 
 #### tools
@@ -91,7 +91,7 @@ The namespace contains the following:
 <script type="module">
 
 import objectKeys from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-keys@esm/index.mjs';
-import tools from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-tools@esm/index.mjs';
+import tools from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-tools@v0.2.1-esm/index.mjs';
 
 console.log( objectKeys( tools ) );
 
