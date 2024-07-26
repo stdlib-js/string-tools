@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/string-tools",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "String tools.",
   "license": "Apache-2.0",
   "author": {
@@ -41,7 +41,7 @@
   "devDependencies": {
     "@stdlib/assert-is-function": "^0.2.1",
     "@stdlib/assert-is-plain-object": "^0.2.1",
-    "@stdlib/utils-define-nonenumerable-read-only-property": "^0.2.1",
+    "@stdlib/utils-define-nonenumerable-read-only-property": "^0.2.2",
     "@stdlib/utils-keys": "^0.2.1",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
